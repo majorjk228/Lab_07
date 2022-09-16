@@ -7,11 +7,13 @@
 
 void multiplication(int a, int b)
 {
+    std::cout << "Введенные цедочисленные данные: " << a << " и " << b << std::endl;
     std::cout << "Умножение целых чисел: " << a * b << std::endl;
 }
 
 void multiplication(double a, double b)
 {
+    std::cout << "Введенные комплексные(с плавующей точкой) данные: " << a << " и " << b << std::endl;
     std::cout << "Умножение комплексных чисел: " << a * b << std::endl;
 }
 
