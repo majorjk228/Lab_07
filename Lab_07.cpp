@@ -3,7 +3,6 @@
 
 #include <iostream>
 #include <windows.h>    // Библиотека для русской локализации
-#include <any>          // Для 
 
 void multiplication(int a, int b)
 {
