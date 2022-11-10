@@ -1,5 +1,5 @@
 ﻿// Лабораторная работа №7, Вариант 3.
-// https://www.cyberforum.ru/cpp-beginners/thread2013326.html
+
 
 #include <iostream>
 #include <windows.h>    // Библиотека для русской локализации
